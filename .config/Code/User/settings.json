@@ -1,0 +1,31 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "window.menuBarVisibility": "toggle",
+    "editor.fontSize": 16,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.enabled": false,
+    "editor.minimap.side": "right",
+    "editor.fontFamily": "\"Fira Code\", Consolas, 'Courier New', monospace",
+    "extensions.autoUpdate": false,
+    "workbench.statusBar.visible": false,
+    "terminal.external.linuxExec": "kitty",
+    "terminal.explorerKind": "both",
+    "terminal.sourceControlRepositoriesKind": "both",
+    "telemetry.telemetryLevel": "off",
+    "tabnine.experimentalAutoImports": true,
+    "workbench.colorCustomizations": {
+        "terminal.background": "#00000000"
+    },
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorCustomizations"
+    ],
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.confirmDragAndDrop": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.productIconTheme": "bongocat",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.linkedEditing": true
+}
